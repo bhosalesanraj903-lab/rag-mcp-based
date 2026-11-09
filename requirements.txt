@@ -1,0 +1,9 @@
+langchain
+faiss-cpu
+python-dotenv
+langchain-text-splitters
+pypdf
+langchain-openai
+fastmcp
+langchain-mcp-adapters
+langchain-community
