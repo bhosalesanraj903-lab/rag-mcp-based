@@ -1,4 +1,4 @@
-# MCP-based RAG System with LangChain & FAISS
+# MCP-based RAG with LangChain & FAISS 
 
 This repository implements a **Retrieval-Augmented Generation (RAG)** system using **LangChain**, **FAISS**, and **FastMCP**, exposed through a **Model Context Protocol (MCP)** server and consumed by an agent-based client.
 
