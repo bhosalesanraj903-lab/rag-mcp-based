@@ -174,16 +174,5 @@ The agent:
 * Replace OpenAI with local or open-source embedding models
 * Add streaming responses to the client
 
----
 
-## Author
-
-**Sivak**
-GitHub: [https://github.com/gesivak21](https://github.com/gesivak21)
-
----
-
-## License
-
-MIT License
 
